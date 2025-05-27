@@ -1,0 +1,89 @@
+bloco,resposta
+1,"Okay, I will classify the expenses based on the provided data. Here's the table with the added ""Category"" column:
+
+| Data       | Estabelecimento                       | Portador             | Valor Parcela | Category        |
+|------------|---------------------------------------|----------------------|---------------|-----------------|
+| 01/05/2025 | MAE JOANA FERNANDO CIRONE            | R$ 64,35            | -             | Other           |
+| 01/05/2025 | KATIA ROCHA FERNANDO CIRONE           | R$ 10,00            | -             | Other          |
+| 01/05/2025 | UBER* TRIP FERNANDO CIRONE            | R$ 36,98            | -             | Transport       |
+| 01/05/2025 | UBER* PENDING FERNANDO CIRONE         | R$ 35,21            | -             | Transport       |
+| 01/05/2025 | METRO RJ FERNANDO CIRONE              | R$ 7,90             | -             | Transport       |
+| 01/05/2025 | UBER * PENDING FERNANDO CIRONE        | R$ 15,80            | -             | Transport       |
+| 01/05/2025 | UBER * PENDING FERNANDO CIRONE        | R$ 43,31            | -             | Transport       |
+| 01/05/2025 | BAR URCA FERNANDO CIRONE             | R$ 19,00            | -             | Food/Leisure    |
+| 01/05/2025 | UBER* PENDING FERNANDO CIRONE         | R$ 11,62            | -             | Transport       |
+| 01/05/2025 | BAR URCA FERNANDO CIRONE             | R$ 38,00            | -             | Food/Leisure    |
+| 02/05/2025 | PB*SAMSUNG FERNANDO CIRONE            | R$ 29,90            | -             | Electronics     |
+| 02/05/2025 | CAM ON BOTAFOGO FERNANDO CIRONE       | R$ 127,50           | -             | Food/Leisure   |
+| 02/05/2025 | BR*BR1FOODTOSAV FERNANDO CIRONE       | R$ 46,97            | -             | Food            |
+| 02/05/2025 | DROGARIA CRISTAL FERNANDO CIRONE      | R$ 30,98            | -             | Health          |
+| 02/05/2025 | UBER *TRIP HELP.UBER.COM FERNANDO CIRONE | R$ 12,20            | -             | Transport       |
+| 03/05/2025 | UBER* PENDING FERNANDO CIRONE         | R$ 30,76            | -             | Transport       |
+| 03/05/2025 | SHOPEE *VITRINEMASTERR FERNANDO CIRONE | R$ 19,99            | -             | Online Shopping |
+| 03/05/2025 | SHOPEE *TICKTACK FERNANDO CIRONE       | R$ 26,49            | -             | Online Shopping |
+| 03/05/2025 | SHOPEE *MUNDOMASTERATA FERNANDO CIRONE | R$ 19,99            | -             | Online Shopping |
+| 03/05/2025 | SHOPEE *BORDADOSRODRIG FERNANDO CIRONE | R$ 44,90            | -             | Online Shopping |
+
+**Conclusion:**
+
+Based on the provided data, the most frequent categories are Transport and Food/Leisure, followed by online shopping, indicating a significant portion of spending is allocated to these areas. There are also expenses in Health and Electronics. There are some expenses that I couldn't clearly classify, being labeled as ""Other"".
+"
+2,"Okay, I will classify your expenses into categories. Here's the table with the added ""Category"" column:
+
+| Date       | Establishment                  | Amount (R$) | Installment | Category           |
+|------------|---------------------------------|-------------|-------------|--------------------|
+| 03/05/2025 | DROGARIA CRISTAL                | 6.50        | -           | Health/Pharmacy   |
+| 03/05/2025 | UBER * PENDING                   | 6.91        | -           | Transport          |
+| 04/05/2025 | UBER * PENDING                   | 18.25       | -           | Transport          |
+| 04/05/2025 | DROGARIA CRISTAL                | 4.50        | -           | Health/Pharmacy   |
+| 04/05/2025 | METRO RJ                         | 15.80       | -           | Transport (Public)|
+| 05/05/2025 | UBER* PENDING                    | 9.12        | -           | Transport          |
+| 05/05/2025 | PREZUNIC 743                     | 45.86       | -           | Groceries          |
+| 06/02/2025 | FOCUS CLINICA E CIRURG          | 100.00      | 3 of 5      | Health             |
+| 06/05/2025 | SHOPEE *GUEDESIMPORTST          | 38.90       | -           | Shopping           |
+| 06/05/2025 | METRO RJ                         | 7.90        | -           | Transport (Public)|
+| 06/05/2025 | UBER* PENDING                    | 18.34       | -           | Transport          |
+| 06/05/2025 | TRJMARKET4U MERCADO AU          | 2.98        | -           | Groceries          |
+| 08/04/2025 | DL*GOOGLE BUMBLE                | 39.90       | -           | Leisure/Entertainment|
+| 08/04/2025 | UBER* PENDING                    | 10.22       | -           | Transport          |
+| 08/04/2025 | METRO RJ                         | 15.00       | -           | Transport (Public)|
+| 09/04/2025 | UBER * PENDING                   | 10.42       | -           | Transport          |
+| 09/04/2025 | UBER * PENDING                   | 11.82       | -           | Transport          |
+| 09/04/2025 | METRO RJ                         | 7.50        | -           | Transport (Public)|
+| 10/04/2025 | SUA ACADEMIA                     | 129.90      | -           | Health/Fitness     |
+| 10/04/2025 | UBER* PENDING                    | 11.95       | -           | Transport          |
+
+**Conclusion:**
+
+The majority of your expenses are related to transportation (Uber and Metro), followed by health and well-being (pharmacy, clinic, and gym). There are also expenses for groceries and a purchase on Shopee. Finally, there is a expense for the dating app Bumble, which I categorized as Leisure/Entertainment.
+"
+3,"Okay, I will classify your expenses and present them in a table format with a ""Category"" column.
+
+Here is the classification:
+
+| Date       | Establishment                  | Value (R$) | Category       |
+|------------|--------------------------------|------------|----------------|
+| 10/04/2025 | METRO RJ FERNANDO CIRONE      | 15.00      | Transport      |
+| 10/04/2025 | CASAS PEDRO FERNANDO CIRONE   | 19.48      | Home Improvement/Supplies|
+| 11/04/2025 | 99 TECNOLOGIA*99* 99* FERNANDO CIRONE  | 7.30       | Transport (Likely 99 Taxi)     |
+| 11/04/2025 | METRO RJ FERNANDO CIRONE      | 7.50       | Transport      |
+| 11/04/2025 | PREZUNIC 742 FERNANDO CIRONE  | 29.98      | Groceries      |
+| 11/04/2025 | NETFLIX.COM FERNANDO CIRONE   | 20.90      | Entertainment  |
+| 11/04/2025 | UBER* PENDING FERNANDO CIRONE  | 15.71      | Transport      |
+| 11/04/2025 | SUPERMERCADO GUAN FERNANDO CIRONE | 440.22     | Groceries      |
+| 11/04/2025 | WINEBR*CLUBEWINE 52058951 FERNANDO CIRONE| 39.37      | Leisure/Alcohol |
+| 12/04/2025 | UBER* PENDING FERNANDO CIRONE  | 22.94      | Transport      |
+| 12/04/2025 | LIMALOGISTICA FERNANDO CIRONE  | 28.00      | Delivery/Shipping |
+| 12/04/2025 | MPLGESTAODE FERNANDO CIRONE  | 11.00      | Unknown/Check details |
+| 12/04/2025 | BAR BOA VISTA FERNANDO CIRONE | 43.30      | Food/Leisure   |
+| 12/04/2025 | UBER * PENDING FERNANDO CIRONE | 33.36      | Transport      |
+| 12/04/2025 | UBER* PENDING FERNANDO CIRONE  | 28.28      | Transport      |
+| 12/04/2025 | UBER* PENDING FERNANDO CIRONE   | 9.57       | Transport      |
+| 12/04/2025 | CACIMBA FERNANDO CIRONE     | 13.93      | Food/Restaurant|
+| 12/04/2025 | UBER * PENDING FERNANDO CIRONE | 26.60      | Transport      |
+| 12/04/2025 | LIMALOGISTICA FERNANDO CIRONE  | 22.00      | Delivery/Shipping |
+
+**Conclusion:**
+
+Your expenses are heavily focused on **Transport** and **Groceries**, with smaller amounts spent on **Leisure/Food, Delivery/Shipping, Home improvement/supplies** and **Entertainment**. It would be beneficial to further investigate the ""MPLGESTAODE"" expense to properly categorize it.
+"
